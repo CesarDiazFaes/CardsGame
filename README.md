@@ -1,2 +1,2 @@
 # CardsGame
-A Javascript cards game. find all the matching pairs of cards.
+HTML + Javascript cards game. Find all the matching pairs of cards.
